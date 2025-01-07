@@ -2,7 +2,7 @@ import requests
 
 # http://www.omdbapi.com/?apikey=[yourkey]&  - api for movies
 
-api_key = '42393429'
+api_key = '' #Create profile to get personal api key
 
 a = True
 
