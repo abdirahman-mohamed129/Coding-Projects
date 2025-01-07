@@ -2,7 +2,7 @@ import requests #allows you to request from the website
 
 from pprint import pprint #prints the data in a clearer way (it will be jumbled up if you use normal print)
 
-API_Key = 'ca0913c0ac5632c2c5b7038452dbe726' #made account and found on open api 
+API_Key = '' # make an account to get an api key
 
 city = input('Enter a city: ')
 
